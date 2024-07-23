@@ -3,7 +3,7 @@ name: Translation Patch Suggestion
 about: Suggest a translation patch for a language thats supported by the game
 title: ''
 labels: 'translation-fix'
-assignees: ''
+assignees: 'quentin452'
 
 ---
 
