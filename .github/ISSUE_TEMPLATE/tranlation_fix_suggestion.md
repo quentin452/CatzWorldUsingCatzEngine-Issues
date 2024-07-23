@@ -1,5 +1,5 @@
 ---
-name: Translation Path Suggestion
+name: Translation Patch Suggestion
 about: Suggest a translation patch for a language thats supported by the game
 title: ''
 labels: ''
